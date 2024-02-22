@@ -1,0 +1,16 @@
+{
+    "OPENAI_API_TOKEN": "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",
+    "PERPLEXITY_API_KEY": "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",
+    "FREEIMAGE_HOST_API_KEY": "6d207e02198a847aa98d0a2a901485a5",
+    "business_name": "dasFlow Custom Athleisure Apparel",
+    "page_type": "Blog Post", 
+    "business_type": "wholesale, supplier, manufacturer, apparel",
+    "path_to_links_file": "dasFlowBrandimagesandlinks.txt",
+    "path_to_example_file": "exampleDasFLow.txt",
+    "path_to_plan_csv": "keywords.csv",
+    "path_to_website_images": "imagesDasFLow.txt",
+    "language": "American English",
+    "country": "United States",
+    "tone": "Professional",
+    "sitemap": "dasFlow XML Sitemap.xml"
+  }
